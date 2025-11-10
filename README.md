@@ -15,8 +15,3 @@ pip install -r requirements.txt
 python scripts/hr_attrition_analysis_basic.py
 python scripts/hr_attrition_analysis_advanced.py
 ```
-
-## 👨‍💻 Author
-**Sahil Dhiman**
-LinkedIn: https://www.linkedin.com/in/sahil-dhiman-439a7021b/
-GitHub: https://github.com/sahildhiman034
